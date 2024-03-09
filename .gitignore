@@ -13,6 +13,7 @@ cabal.sandbox.config
 *.hi
 *.o
 *.lock
+!flake.lock
 .stack-work
 run.sh
 src/hightlight.js
